@@ -1,0 +1,11 @@
+C:\Users\btk02\source\repos\NesneHareketleriApp\NesneHareketleriApp\bin\Debug\NesneHareketleriApp.exe.config
+C:\Users\btk02\source\repos\NesneHareketleriApp\NesneHareketleriApp\bin\Debug\NesneHareketleriApp.exe
+C:\Users\btk02\source\repos\NesneHareketleriApp\NesneHareketleriApp\bin\Debug\NesneHareketleriApp.pdb
+C:\Users\btk02\source\repos\NesneHareketleriApp\NesneHareketleriApp\obj\Debug\NesneHareketleriApp.csproj.AssemblyReference.cache
+C:\Users\btk02\source\repos\NesneHareketleriApp\NesneHareketleriApp\obj\Debug\NesneHareketleriApp.Form1.resources
+C:\Users\btk02\source\repos\NesneHareketleriApp\NesneHareketleriApp\obj\Debug\NesneHareketleriApp.Properties.Resources.resources
+C:\Users\btk02\source\repos\NesneHareketleriApp\NesneHareketleriApp\obj\Debug\NesneHareketleriApp.csproj.GenerateResource.cache
+C:\Users\btk02\source\repos\NesneHareketleriApp\NesneHareketleriApp\obj\Debug\NesneHareketleriApp.csproj.CoreCompileInputs.cache
+C:\Users\btk02\source\repos\NesneHareketleriApp\NesneHareketleriApp\obj\Debug\NesneHareketleriApp.exe
+C:\Users\btk02\source\repos\NesneHareketleriApp\NesneHareketleriApp\obj\Debug\NesneHareketleriApp.pdb
+C:\Users\btk02\source\repos\NesneHareketleriApp\NesneHareketleriApp\obj\Debug\NesneHareketleriApp.Form2.resources
